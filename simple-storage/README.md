@@ -1,0 +1,1 @@
+- [ブロックチェーンアプリケーション開発の教科書](https://www.amazon.co.jp/dp/B0794WJYGW/)
